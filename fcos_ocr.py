@@ -95,7 +95,7 @@ def open_image():
 
 # Function to process the image and display results
 def process_image(file_path):
-    # Your detection and OCR code goes here
+    
     model = load_trained_model('fcos_license_plate_detector.pth')
     plates, boxes = detect_license_plate(model, file_path)
     detected_text = ''
