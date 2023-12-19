@@ -25,8 +25,8 @@ This application requires the following libraries:
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Dalek12/License_Plate_Detection.git
+   cd License_Plate_Detection
 2. **Install essential libraries**
    ```bash
    pip install opencv-python-headless easyocr torch torchvision pillow
