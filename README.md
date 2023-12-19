@@ -31,6 +31,7 @@ This application requires the following libraries:
    ```bash
    pip install opencv-python-headless easyocr torch torchvision pillow
 3. **Model path**
+   Download the fined tune model pth from here: https://drive.google.com/file/d/1Z53KNZAmY__GvrRbQFjkumqa8eQNhYNv/view?usp=sharing
    Keep fcos_license_plate_detector.pth in the same directory as the fcos_ocr.py
 3. **Run the APP**
    ```bash
